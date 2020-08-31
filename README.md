@@ -1,3 +1,11 @@
+# Detoxify
+
+A hugo theme based on Detox.
+
+Detoxifies the Detox theme even more by removeing jQuery and fittext.js :D
+
+---
+
 # Detox
 
 Detox is a beautiful theme, originally created to work with [Ghost](http://www.ghost.org). I wanted a copy of this theme for use with [Hugo](http://gohugo.io).
